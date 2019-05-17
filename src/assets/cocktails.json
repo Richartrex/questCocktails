@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Pina colada",
+        "price": 10,
+        "img":"https://realhousemoms.com/wp-content/uploads/Pina-Colada-IG.jpg" 
+    },
+    {
+        "name":"Mojito",
+        "price": 7,
+        "img":"https://www.cuisine-guylaine.fr/wp-content/uploads/2017/10/recette-mojito-sans-alcool.png"
+    },
+    {
+        "name":"Rainbow",
+        "price":12,
+        "img":"http://www.cocktailmag.fr/media/k2/items/cache/1519e954ae6bd629544356cae3e51766_M.jpg"
+    }
+]
